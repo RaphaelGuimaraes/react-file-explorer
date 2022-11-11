@@ -1,0 +1,5 @@
+.main {
+  display: flex;
+  border: 1px solid #2b2d39;
+  min-height: calc(100vh - 2px);
+}
